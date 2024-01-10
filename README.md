@@ -44,6 +44,9 @@ Explore and Test:
 
 It explore the app's features and test its functionality.
 
+## Screenshots
+ I have provided the screenshots in this repository through a file i.e, To_Do app screenshots.pdf
+
 ## Usage
 
 1. Open the app on your Android device.
